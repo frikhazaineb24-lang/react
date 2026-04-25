@@ -14,13 +14,12 @@ function Home() {
 
       
       <p>
-        Depuis sa création, Restaurant Délice s’est donné pour mission de
-        partager la richesse de la cuisine traditionnelle et internationale
-        avec passion et authenticité. Chaque plat est préparé avec soin,
-        des ingrédients frais et locaux, pour offrir à nos clients une expérience
-        gustative inoubliable. Notre équipe dévouée allie savoir‑faire culinaire
-        et service chaleureux pour faire de chaque visite un moment unique.
-      </p>
+  Chez Restaurant Délice, nous croyons que chaque repas est une expérience unique.
+  Notre cuisine met en valeur des recettes authentiques revisitées avec une touche moderne.
+  Nous sélectionnons soigneusement nos ingrédients pour garantir fraîcheur, qualité et goût exceptionnel.
+  Que ce soit pour un déjeuner rapide, un dîner en famille ou une occasion spéciale,
+  nous vous accueillons dans une ambiance chaleureuse et conviviale.
+</p>
     </div>
   );
 }
